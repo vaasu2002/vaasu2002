@@ -4,9 +4,8 @@
 
 - 🌱 I’m currently learning ... Artifical Intelligence and Data Science
 - 📫 How to reach me: ...
-###https://www.linkedin.com/in/vaasubisht/
-###https://www.instagram.com/vaasubisht/
-
+-https://www.linkedin.com/in/vaasubisht/
+-https://www.instagram.com/vaasubisht/
 - 😄 Pronouns: ... he/him
 
 
