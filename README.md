@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 - https://www.linkedin.com/in/vaasubisht/
 - https://www.instagram.com/vaasubisht/
-- - 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣
 - 😄 Pronouns: ... he/him
 
 
