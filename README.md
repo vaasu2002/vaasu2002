@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning ... Artifical Intelligence and Data Science
+- 🌱 I’m currently learning ... Machine Learning and Data Science
 - 📫 How to reach me: ...
 - https://www.linkedin.com/in/vaasubisht/
 - https://www.instagram.com/vaasubisht/
