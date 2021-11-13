@@ -7,9 +7,6 @@
 -    Machine Learning and Data Science
 -    😄 Pronouns: ... he/him
 
-<a href="https://codesandbox.io/u/mikeeowino">
-  <img align="left" alt="Vaasu Bisht | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 <a href="https://twitter.com/bisht_vaasu">
   <img align="left" alt="Vaasu Bisht | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
