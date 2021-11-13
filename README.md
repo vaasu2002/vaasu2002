@@ -10,11 +10,8 @@
 <a href="https://codesandbox.io/u/mikeeowino">
   <img align="left" alt="Vaasu Bisht | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/mikeeowino">
+<a href="https://twitter.com/bisht_vaasu">
   <img align="left" alt="Vaasu Bisht | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Vaasu's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 ## Hi there. I am Vaasu Bisht doing 
