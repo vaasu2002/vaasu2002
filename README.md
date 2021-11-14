@@ -11,7 +11,7 @@
   <img align="left" alt="Vaasu Bisht | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-## Hi there. I am Vaasu Bisht doing 
+## MTech Integrated Artificial Intelligence 
 - 📫 How to reach me: ...
 - https://www.linkedin.com/in/vaasubisht/
 - https://www.instagram.com/vaasubisht/
