@@ -35,7 +35,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaasu2002&layout=compact&theme=highcontrast)](https://github.com/vaasu2002/)
-![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=vaasu2002&count_private=true&show_icons=true&theme=highcontrast)
+![Vaasu Bisht's github stats](https://github-readme-stats.vercel.app/api?username=vaasu2002&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
 Credits: [Vaasu Bisht](https://github.com/vaasu2002)
