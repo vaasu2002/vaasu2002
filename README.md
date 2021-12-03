@@ -5,7 +5,7 @@
 -    MTech Integrated in VIT BHOPAL.👋
 -   🌱 I’m currently learning ... 
 -    Machine Learning and Data Science
--    😄 Pronouns: ... he/him
+-    Pronouns: ... `he/him`
 
 <a href="https://twitter.com/bisht_vaasu">
   <img align="left" alt="Vaasu Bisht | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
