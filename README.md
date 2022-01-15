@@ -37,12 +37,11 @@
 ---------------------------------------------------------------------------------------
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaasu2002&show_icons=true&locale=en&layout=compact" alt="vanshika230" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaasu2002&layout=compact&theme=highcontrast)](https://github.com/vaasu2002/)
-(https://github-readme-stats.vercel.app/api?username=vaasu2002&count_private=true&show_icons=true&theme=highcontrast)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaasu2002&show_icons=true&locale=en" alt="vanshika230" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaasu2002&" alt="vaasu2002" /></p>
 
 
 -----
