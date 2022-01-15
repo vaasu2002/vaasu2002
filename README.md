@@ -1,16 +1,12 @@
 
 <h1 align="center">Hi, I'm Vaasu Bisht</h1>
-
-<img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" /> 
-
 ## **“Torture the data, and it will confess to anything.”**
-
-
-
--    MTech Integrated in VIT BHOPAL.👋
+<img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" /> 
+## About Me:- 
+-    Vellore Institute of Technology - VIT Bhopal
+-    MTech Integrated Artificial intelligence
 -    First Year Student
--   🌱 I’m currently learning ... 
--    Machine Learning and Data Science
+-   🌱 I’m currently learning ... Machine Learning and Data Science
 -    Pronouns: ... `he/him`
 
 <a href="https://twitter.com/bisht_vaasu">
