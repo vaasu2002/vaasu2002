@@ -10,7 +10,9 @@
 -    First Year Student
 -   🌱 I’m currently learning ... Machine Learning and Data Science
 -    Pronouns: ... `he/him`
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vaasu2002&theme=react-dark&hide_border=true&area=true)
+  
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vanshika230&theme=react-dark&hide_border=true&area=true)
+
 <a href="https://twitter.com/bisht_vaasu">
   <img align="left" alt="Vaasu Bisht | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
