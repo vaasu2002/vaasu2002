@@ -27,12 +27,17 @@
 
 ### Skills 👨‍💻
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-
+a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-line.svg" alt="django" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/photoshop.svg" alt="photoshop" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <br>
 <br>
 
