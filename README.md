@@ -1,7 +1,6 @@
 
-
-<img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" /> Hi there, I'm [Vaasu Bisht!](https://www.linkedin.com/in/vaasubisht/) 👋
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vaasu2002/&title=Profile%20Views)
+## Hi there, I'm Vaasu Bisht!
+<img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" />  👋
 -    MTech Integrated in VIT BHOPAL.👋
 -    First Year Student
 -   🌱 I’m currently learning ... 
