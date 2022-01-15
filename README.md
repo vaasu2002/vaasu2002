@@ -31,7 +31,7 @@
 <br>
 <br>
 
-<a href="https://www.instagram.com/" target="_blank"><img src="https://www.iconfinder.com/icons/3225191/app_instagram_logo_media_popular_social_icon" height="120px" width="120px" alt="Instagram" align="right"></a><a href="https://www.linkedin.com/in/vaasubisht/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/vaasubisht/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.kaggle.com/vaasubisht" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 
 ---------------------------------------------------------------------------------------
