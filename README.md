@@ -31,22 +31,12 @@
 <br>
 <br>
 
-<a href="https://www.instagram.com/" target="_blank"><img src="https://www.google.com/search?q=instagram&tbm=isch&chips=q:instagram,g_1:icon:nbyUgvQdeFM%3D&hl=en&sa=X&ved=2ahUKEwinwKL7s7T1AhX0zaACHaXqDksQ4lYoAHoECAEQGg&biw=1519&bih=760#imgrc=Jzs9B3xAJ1ZAKM" height="120px" width="120px" alt="Instagram" align="right"></a><a href="https://www.linkedin.com/in/vaasubisht/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://www.iconfinder.com/icons/3225191/app_instagram_logo_media_popular_social_icon" height="120px" width="120px" alt="Instagram" align="right"></a><a href="https://www.linkedin.com/in/vaasubisht/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.kaggle.com/vaasubisht" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 
 ---------------------------------------------------------------------------------------
 
-### Skills 👨‍💻
 
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-line.svg" alt="django" width="40" height="40"/></a>
-</a>
-<a ><img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/photoshop.svg" alt="photoshop" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-<br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaasu2002&layout=compact&theme=highcontrast)](https://github.com/vaasu2002/)
 ![Vaasu Bisht's github stats](https://github-readme-stats.vercel.app/api?username=vaasu2002&count_private=true&show_icons=true&theme=highcontrast)
