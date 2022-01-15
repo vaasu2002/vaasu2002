@@ -2,7 +2,7 @@
 ## Hi there, I'm Vaasu Bisht!
 <img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" /> 
 
-### “Torture the data, and it will confess to anything.”
+## **“Torture the data, and it will confess to anything.”**
 
 
 
