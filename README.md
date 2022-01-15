@@ -4,11 +4,16 @@
 ## **“Torture the data, and it will confess to anything.”**
 
 <img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" /> 
+
 ## About Me:- 
 -    Vellore Institute of Technology - VIT Bhopal
+
 -    MTech Integrated Artificial intelligence
+
 -    First Year Student
+
 -   🌱 I’m currently learning ... Machine Learning and Data Science
+
 -    Pronouns: ... `he/him`
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vaasu2002&theme=react-dark&hide_border=true&area=true)
