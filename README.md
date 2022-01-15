@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/" target="_blank"><img src="https://www.google.com/search?q=instagram&tbm=isch&chips=q:instagram,g_1:icon:nbyUgvQdeFM%3D&hl=en&sa=X&ved=2ahUKEwinwKL7s7T1AhX0zaACHaXqDksQ4lYoAHoECAEQGg&biw=1519&bih=760#imgrc=Jzs9B3xAJ1ZAKM" height="120px" width="120px" alt="Instagram" align="right"></a><a href="https://www.linkedin.com/in/vaasubisht/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.kaggle.com/vaasubisht" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 
-
+---------------------------------------------------------------------------------------
 
 ### Skills 👨‍💻
 
