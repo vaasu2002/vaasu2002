@@ -31,7 +31,7 @@
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-line.svg" alt="django" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+</a>
 <a ><img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/photoshop.svg" alt="photoshop" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <br>
