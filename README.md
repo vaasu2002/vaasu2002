@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Vaasu Bisht</h1>
 
-**Certifications:-** 
+### **Certifications:-** 
 1)  [DeepLearning.AI TensorFlow Developer ](https://www.coursera.org/account/accomplishments/specialization/certificate/RZSSX3JGMD86)
 
 ## **“Torture the data, and it will confess to anything”**
