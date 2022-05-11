@@ -27,13 +27,7 @@
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vaasu2002&theme=react-dark&hide_border=true&area=true)
-
-
-<a href="https://www.linkedin.com/in/vaasubisht/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-<a href="https://www.kaggle.com/vaasubisht" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
-
 ---------------------------------------------------------------------------------------
-![Kaggle]()
 
 <a href="https://www.linkedin.com/in/vaasu2002/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
