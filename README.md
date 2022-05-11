@@ -7,7 +7,15 @@
 -    First Year Student
 -   [My Resume]()
 -   [My Projects](https://github.com/vaasu2002/PROJECTS)
-
+<a href="https://www.linkedin.com/in/vaasu2002/">
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/vaasubisht">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://leetcode.com/vaasubisht/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
 ### **Certifications:-** 
 1)  [DeepLearning.AI TensorFlow Developer ](https://www.coursera.org/account/accomplishments/specialization/certificate/RZSSX3JGMD86)
 
@@ -29,13 +37,4 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vaasu2002&theme=react-dark&hide_border=true&area=true)
 ---------------------------------------------------------------------------------------
 
-<a href="https://www.linkedin.com/in/vaasu2002/">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/vaasubisht">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://leetcode.com/vaasubisht/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-</a>
------
+
