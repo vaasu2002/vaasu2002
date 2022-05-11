@@ -33,8 +33,15 @@
 <a href="https://www.kaggle.com/vaasubisht" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 
 ---------------------------------------------------------------------------------------
-![Kaggle](https://www.kaggle.com/vaasubisht)
+![Kaggle]()
 
-
-
+<a href="https://www.linkedin.com/in/vaasu2002/">
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/vaasubisht">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://leetcode.com/vaasubisht/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
 -----
