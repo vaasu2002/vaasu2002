@@ -33,12 +33,7 @@
 <a href="https://www.kaggle.com/vaasubisht" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 
 ---------------------------------------------------------------------------------------
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaasu2002&show_icons=true&locale=en&layout=compact" alt="vaasu2002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaasu2002&show_icons=true&locale=en" alt="vaasu2002" /></p>
-
+![Kaggle](https://www.kaggle.com/vaasubisht)
 
 
 
