@@ -5,8 +5,8 @@
 -    Vellore Institute of Technology - VIT Bhopal
 -    MTech Integrated Artificial intelligence
 -    First Year Student
--   [My Resume]()
--   [My Projects](https://github.com/vaasu2002/PROJECTS)
+-   [**My Resume**](https://drive.google.com/file/d/1FZWZqaK10-ClJj76wUO4kUdQ9MKnJvCc/view?usp=sharing)
+-   [**My Projects**](https://github.com/vaasu2002/PROJECTS)
 <a href="https://www.linkedin.com/in/vaasu2002/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
