@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Vaasu Bisht</h1>
 
 ## About Me:- 
--    Vellore Institute of Technology - VIT Bhopal
+-    Vellore Institute of Technology - Bhopal Campus
 -    MTech Integrated Artificial intelligence
 -    First Year Student
 -   [**My Resume**](https://drive.google.com/file/d/1FZWZqaK10-ClJj76wUO4kUdQ9MKnJvCc/view?usp=sharing)
