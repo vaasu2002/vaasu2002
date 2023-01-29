@@ -5,7 +5,7 @@ Vaasu Bisht is a sophomore at Vellore Insititute of Technology, Bhopal campus. C
 
 
 ### MY TECH STACK:
-<p>
+<p align="center">
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Machine%20Learning%20and%20Data%20Science&align=center&lineHeight=10&lineCount=2&theme=cyberpunk&line1=Python,Python,3776AB;TensorFlow,TensorFlow,FF6F00;scikit-learn,scikit-learn,F7931E;&line2=Jupyter,Jupyter,F37626;PyTorch,PyTorch,EE4C2C;Anaconda,Anaconda,44A833;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Machine%20Learning%20and%20Data%20Science&align=center&lineHeight=10&lineCount=2&theme=cyberpunk&line1=Python,Python,3776AB;TensorFlow,TensorFlow,FF6F00;scikit-learn,scikit-learn,F7931E;&line2=Jupyter,Jupyter,F37626;PyTorch,PyTorch,EE4C2C;Anaconda,Anaconda,44A833;)
 
