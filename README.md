@@ -5,9 +5,12 @@ Vaasu Bisht is a sophomore at Vellore Insititute of Technology, Bhopal campus. C
 
 
 ### MY TECH STACK:
+<p>
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Machine%20Learning%20and%20Data%20Science&align=center&lineHeight=10&lineCount=2&theme=cyberpunk&line1=Python,Python,3776AB;TensorFlow,TensorFlow,FF6F00;scikit-learn,scikit-learn,F7931E;&line2=Jupyter,Jupyter,F37626;PyTorch,PyTorch,EE4C2C;Anaconda,Anaconda,44A833;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Machine%20Learning%20and%20Data%20Science&align=center&lineHeight=10&lineCount=2&theme=cyberpunk&line1=Python,Python,3776AB;TensorFlow,TensorFlow,FF6F00;scikit-learn,scikit-learn,F7931E;&line2=Jupyter,Jupyter,F37626;PyTorch,PyTorch,EE4C2C;Anaconda,Anaconda,44A833;)
 
+ </p>
+ 
   [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Tech%20Stack&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Tech%20Stack&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)
   [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20and%20deployment&align=center&lineHeight=9&lineCount=1&theme=cyberpunk&gap=8&line1=FastAPI,FastAPI,009688;Amazon%20S3,Amazon%20S3,569A31;Amazon%20EC2,Amazon%20EC2,FF9900;Docker,Docker,2496ED;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20and%20deployment&align=center&lineHeight=9&lineCount=1&theme=cyberpunk&gap=8&line1=FastAPI,FastAPI,009688;Amazon%20S3,Amazon%20S3,569A31;Amazon%20EC2,Amazon%20EC2,FF9900;Docker,Docker,2496ED;)
 
