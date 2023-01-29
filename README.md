@@ -1,43 +1,30 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+### Hi there 👋, my name is Vaasu Bisht
 
-<h1 align="center">Hi, I'm Vaasu Bisht</h1>
+Vaasu Bisht is a sophomore at Vellore Insititute of Technology, Bhopal campus. Currently working as a data scientist and backend developer at i3 Digital Health. Vaasu is responsible for planning, designing, and developing various data pipelines and databases. In addition to these responsibilities, Vaasu is also involved in research and project planning, and is skilled in connecting projects with machine learning pipelines. With experience in programming languages such as C++, Python and JavaScript, as well as web development skills in HTML, CSS ,Node.js ,and FastAPI. Vaasu is well-equipped to tackle a wide range of data science projects. In addition, his experience with data analysis and image processing using OpenCV make him an asset to any team. Vaasu's passion for using data to drive innovation and improve processes is evident in all of his work.
 
-## About Me:- 
--    Vellore Institute of Technology - Bhopal Campus
--    MTech Integrated Artificial intelligence
--    First Year Student
--   [**My Resume**](https://drive.google.com/file/d/1FZWZqaK10-ClJj76wUO4kUdQ9MKnJvCc/view?usp=sharing)
--   [**My Projects**](https://github.com/vaasu2002/PROJECTS)
--   [**My Portfolio**](https://vaasu2002.github.io/)
-<a href="https://www.linkedin.com/in/vaasubisht/">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/vaasubisht">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://leetcode.com/vaasubisht/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-</a>
-
-### **Certifications:-** 
-1)  [DeepLearning.AI TensorFlow Developer ](https://www.coursera.org/account/accomplishments/specialization/certificate/RZSSX3JGMD86)
+<img width="48%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
 
 
 
-<h1 align="center"> My Tech-Stack! </h1>
+### MY TECH STACK:
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Tech%20Stack&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Tech%20Stack&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)
+  
+## Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HemanthSai7&count_private=true&show_icons=true&theme=onedark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthSai7&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthSai7&langs_count=10&layout=compact&theme=onedark" />
+<!--   <img src="https://github-readme-activity-graph.hemanthsai7.repl.co/graph?username=HemanthSai7&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
+</p>
 
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h3 align="center">A passionate Machine Learner from India</h3>
 
+### Connect with me!
+<p align="left">
+<a href="https://www.linkedin.com/in/hemanthsai3187/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"/> 
+<a href="https://twitter.com/HemanthSai3187" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30"/></a>
+<a href="https://www.instagram.com/hemanth_sai_7/" target="_blank" rel="noreferrer"><img src="assets/Instagram-Logo.wine.svg" alt="instagram" width="35" height="35"/></a>
+</p>
 
----------------------------------------------------------------------------------------
-
-
+![Wave](assets/bottom_header.svg)
