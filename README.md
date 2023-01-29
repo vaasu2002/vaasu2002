@@ -11,7 +11,7 @@ Vaasu Bisht is a sophomore at Vellore Insititute of Technology, Bhopal campus. C
 
  </p>
  
-  [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Tech%20Stack&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Tech%20Stack&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)
+  [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Development&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Tech%20Stack&align=center&lineHeight=10&lineCount=1&theme=cyberpunk&line1=Postman,Postman,FF6C37;JavaScript,JavaScript,F7DF1E;Express,Express,ffffff;Node.js,Node.js,339933;)
   [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20and%20deployment&align=center&lineHeight=9&lineCount=1&theme=cyberpunk&gap=8&line1=FastAPI,FastAPI,009688;Amazon%20S3,Amazon%20S3,569A31;Amazon%20EC2,Amazon%20EC2,FF9900;Docker,Docker,2496ED;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20and%20deployment&align=center&lineHeight=9&lineCount=1&theme=cyberpunk&gap=8&line1=FastAPI,FastAPI,009688;Amazon%20S3,Amazon%20S3,569A31;Amazon%20EC2,Amazon%20EC2,FF9900;Docker,Docker,2496ED;)
 
 
