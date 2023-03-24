@@ -22,3 +22,8 @@ Vaasu Bisht is a sophomore at Vellore Insititute of Technology, Bhopal campus. C
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaasu2002&langs_count=10&layout=compact&theme=onedark" />
 <!--   <img src="https://github-readme-activity-graph.vaasu2002.repl.co/graph?username=vaasu2002&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
 </p>
+
+<p align="center">
+<a href="https://github.com/vaasu2002"><img src="https://github-profile-trophy.vercel.app/?username=vaasu2002" "></a>
+</p>
+
