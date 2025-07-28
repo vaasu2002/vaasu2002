@@ -29,7 +29,7 @@ I work on 3D digital image processing using C++, focusing on high-performance co
 ## 💼 Professional Experience
 
 **SDE Intern** @ Siemens Healthineers (June '25 - Present)
-- I work on 3D digital image processing using C++, focusing on high-performance computing, concurrency, and inter-process communication (IPC).
+- Engineer at Siemens Healthineers working on 3D digital image processing with C++. Skilled in concurrency, IPC, and high-performance systems to enable sustainable healthcare innovations.
 
 **Intern** @ i3 Digital Health (Dec '22 - July '23)
 - Led healthcare platform backend development with oncology experts
